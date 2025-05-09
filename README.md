@@ -8,13 +8,13 @@ Hi, i'm Vaibhav
 
 🔭 I am passionate about technology and want to learn & explore new technologies
 
- I’m living in Guntur, AP India
+ I’m living in Pune, Maharashtra India
 
 🌱 Learning C# Backend & Full-Stack Development
 
 💬 Ask me about DotNet
 
-📫 How to reach me vraner2606@gmail.com
+📫 How to reach me vaibhavraner01@gmail.com
 
 ⚡ Fun fact I watch the funny videos often.
 
